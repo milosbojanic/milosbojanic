@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milos Bojanic</h1>
+<h1 align="center">Hi 👋, I'm Miloš Bojanić</h1>
 <h3 align="center">I am a student from Novi Sad, Serbia</h3>
 
 - 👩‍🎓 I’m studying **Software Engineering and Information Technologies at the Faculty of Technical Sciences**
